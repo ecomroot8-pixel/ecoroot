@@ -13,8 +13,9 @@ import modal2 from '../components/images/casemodal2.jpg'
 import front3 from '../components/images/casefront3.jpg'
 import modal3 from '../components/images/casemodal3.jpg'
 import ceo from '../components/images/ceo.jpeg'
-import cmo from '../components/images/CMO.jpg'
-import director from '../components/images/director.jpg'
+import cmo from '../components/images/CMO.jpeg'
+import director from '../components/images/director.jpeg'
+
 import { 
 
   TrendingUp, 
@@ -77,16 +78,16 @@ const SinglePage = () => {
       description: "2+ years leading ecommerce transformations",
     },
     {
-      name: "Sarah Chen",
+      name: "Jessica",
       role: "CMO",
       image: cmo,
-      description: "Email marketing expert with $50M+ revenue generated",
+      description: "Email marketing designer with 3 years of experience",
     },
     {
-      name: "Michael Torres",
+      name: "Masood",
       role: "Director of Strategy",
       image: director,
-      description: "Data-driven strategist specializing in growth optimization",
+      description: "Email Marketing expert with 4M revenue generated",
     },
   ];
 
